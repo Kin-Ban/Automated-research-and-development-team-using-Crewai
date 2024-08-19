@@ -1,1 +1,1 @@
-# Automated-research-and-revelopment-team-using-Crewai
+# Automated-research-and-development-team-using-Crewai
