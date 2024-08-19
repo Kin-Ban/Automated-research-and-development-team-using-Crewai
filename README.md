@@ -17,3 +17,6 @@ Scalability: The system is designed to be reusable, allowing users to deploy it 
 
 Impact:
 This project showcases how AI can streamline and enhance meeting preparation through automation, reducing the time and effort required while ensuring comprehensive results. The ability to reuse the setup for multiple meetings makes it a powerful tool for professionals and organizations.
+
+![image](https://github.com/user-attachments/assets/e9b2c2c6-8d32-4572-b963-3f032a14bda6)
+
